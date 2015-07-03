@@ -1,0 +1,183 @@
+my mac addr:
+0-11-22-33-44-2-
+======waiting for read from tap0======
+read 90 bytes
+======waiting for read from tap0======
+read 54 bytes
+======waiting for read from tap0======
+read 78 bytes
+======waiting for read from tap0======
+read 202 bytes
+======waiting for read from tap0======
+read 81 bytes
+======waiting for read from tap0======
+read 299 bytes
+======waiting for read from tap0======
+read 299 bytes
+======waiting for read from tap0======
+read 299 bytes
+======waiting for read from tap0======
+read 275 bytes
+======waiting for read from tap0======
+read 70 bytes
+======waiting for read from tap0======
+read 110 bytes
+======waiting for read from tap0======
+read 81 bytes
+======waiting for read from tap0======
+read 202 bytes
+======waiting for read from tap0======
+read 222 bytes
+======waiting for read from tap0======
+read 101 bytes
+======waiting for read from tap0======
+read 379 bytes
+======waiting for read from tap0======
+read 192 bytes
+======waiting for read from tap0======
+read 90 bytes
+======waiting for read from tap0======
+read 379 bytes
+======waiting for read from tap0======
+read 192 bytes
+======waiting for read from tap0======
+read 107 bytes
+======waiting for read from tap0======
+read 379 bytes
+======waiting for read from tap0======
+read 192 bytes
+======waiting for read from tap0======
+read 234 bytes
+======waiting for read from tap0======
+read 355 bytes
+======waiting for read from tap0======
+read 180 bytes
+======waiting for read from tap0======
+read 101 bytes
+======waiting for read from tap0======
+read 222 bytes
+======waiting for read from tap0======
+read 355 bytes
+======waiting for read from tap0======
+read 180 bytes
+======waiting for read from tap0======
+read 81 bytes
+======waiting for read from tap0======
+read 291 bytes
+======waiting for read from tap0======
+read 303 bytes
+======waiting for read from tap0======
+read 101 bytes
+======waiting for read from tap0======
+read 323 bytes
+======waiting for read from tap0======
+read 355 bytes
+======waiting for read from tap0======
+read 180 bytes
+======waiting for read from tap0======
+read 70 bytes
+======waiting for read from tap0======
+read 81 bytes
+======waiting for read from tap0======
+read 101 bytes
+======waiting for read from tap0======
+read 70 bytes
+======waiting for read from tap0======
+read 54 bytes
+======waiting for read from tap0======
+read 81 bytes
+======waiting for read from tap0======
+read 101 bytes
+======waiting for read from tap0======
+read 81 bytes
+======waiting for read from tap0======
+read 101 bytes
+======waiting for read from tap0======
+read 98 bytes
+dst mac addr of frame is :
+0-11-22-33-44-29-
+src mac addr of frame is :
+0-11-22-33-44-2-
+frame type is :800
+#######
+this is a ip frame
+ip version : 4
+ip head_len : 5
+ip server type : 0
+ip total len : 84
+ip id : 0
+ip offset : 4000
+ip ttl : 64
+ip pro : 1
+ip sum : 40017
+src ip addr of frame is :
+192.168.0.2.
+dst ip addr of frame is :
+192.168.29.5.
+======waiting for read from tap0======
+read 98 bytes
+dst mac addr of frame is :
+0-11-22-33-44-29-
+src mac addr of frame is :
+0-11-22-33-44-2-
+frame type is :800
+#######
+this is a ip frame
+ip version : 4
+ip head_len : 5
+ip server type : 0
+ip total len : 84
+ip id : 0
+ip offset : 4000
+ip ttl : 64
+ip pro : 1
+ip sum : 40017
+src ip addr of frame is :
+192.168.0.2.
+dst ip addr of frame is :
+192.168.29.5.
+======waiting for read from tap0======
+read 98 bytes
+dst mac addr of frame is :
+0-11-22-33-44-29-
+src mac addr of frame is :
+0-11-22-33-44-2-
+frame type is :800
+#######
+this is a ip frame
+ip version : 4
+ip head_len : 5
+ip server type : 0
+ip total len : 84
+ip id : 0
+ip offset : 4000
+ip ttl : 64
+ip pro : 1
+ip sum : 40017
+src ip addr of frame is :
+192.168.0.2.
+dst ip addr of frame is :
+192.168.29.5.
+======waiting for read from tap0======
+read 98 bytes
+dst mac addr of frame is :
+0-11-22-33-44-29-
+src mac addr of frame is :
+0-11-22-33-44-2-
+frame type is :800
+#######
+this is a ip frame
+ip version : 4
+ip head_len : 5
+ip server type : 0
+ip total len : 84
+ip id : 0
+ip offset : 4000
+ip ttl : 64
+ip pro : 1
+ip sum : 40017
+src ip addr of frame is :
+192.168.0.2.
+dst ip addr of frame is :
+192.168.29.5.
+======waiting for read from tap0======

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="../ip_interface.c" open="0" top="0" tabpos="0">
+		<Cursor position="2413" topLine="102" />
+	</File>
+	<File name="../makefile" open="0" top="0" tabpos="0">
+		<Cursor position="1" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
